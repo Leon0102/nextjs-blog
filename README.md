@@ -1,19 +1,11 @@
-# Next.js + Tailwind CSS Example
+# Sanity Blogging Content Studio
 
-Tailwind CSS is integrated into the `create-next-app` CLI, which supports TypeScript and JavaScript, as well as the App Router (`app/`) and the pages directory `pages/`.
+Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
-## How to use
+Now you can do the following things:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
-
-```bash
-npx create-next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --tailwind with-tailwindcss-app
-```
+- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
+- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
+- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
+- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
+- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
